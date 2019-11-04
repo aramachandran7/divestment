@@ -1,9 +1,9 @@
 # The Sustainable Wealth Initiative - Our Yale Hacks '19 Hackathon Project
 A program that provides sustainable investment suggestions and calculates financial planning details for personal wealth accumulation. 
-Hackathon team - 
-Andrew Mascillaro - Backend, integration, debugging
-Adi Ramachandran - Frontend, integration, debugging
-Rohil Agarwal - Frontend
+Hackathon team: 
+| Andrew Mascillaro - Backend, integration, debugging |
+Adi Ramachandran - Frontend, integration, debugging |
+Rohil Agarwal - Frontend |
 
 ## Our Elevator Pitch!
 Today, we’re going to be joining our friend Arjun on a financial journey. Arjun is a recent CS grad, has just gotten a job as a software developer, getting paid about 75k a year. Arjun isn’t a big numbers guy, but knows that if he invests right he can accumulate his wealth fast - he’s even heard from some Youtube video he can’t remember that he could become a millionaire by age 40. 
