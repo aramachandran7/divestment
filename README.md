@@ -1,5 +1,4 @@
-# The Sustainable Wealth Initiative 
-## Our Yale Hacks '19 Hackathon Project
+# The Sustainable Wealth Initiative - Our Yale Hacks '19 Hackathon Project
 A program that provides sustainable investment suggestions and calculates financial planning details for personal wealth accumulation. 
 Hackathon team - 
 Andrew Mascillaro - Backend, integration, debugging
